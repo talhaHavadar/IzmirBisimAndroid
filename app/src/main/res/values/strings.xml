@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Izmir Bisim</string>
+    <string name="action_settings">Settings</string>
+    <string name="station_text">İstasyon</string>
+    <string name="how_hire_text">Nasıl Kiralarım?</string>
+    <string name="pricing_text">Fiyatlar</string>
+    <string name="phone_text">Telefon</string>
+    <string name="membership_places_text">Üye Noktaları</string>
+    <string name="feedback_text">Geri Bildirim</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="unexpected_error_message">Beklenmedik bir sorun oluştu!! Lütfen tekrar deneyin..</string>
+    <string name="bisimstation_state_text">State</string>
+    <string name="bisimstation_emptypark_text">Boş Park</string>
+    <string name="bisimstation_availablebcycle_text">Aktif Bisiklet</string>
+    <string name="action_refresh">Yenile</string>
+    <string name="stations_subtitle">İstasyonlar</string>
+    <string name="app_name_title">İzmir Bisim</string>
+    <string name="membership_places_static_text">"<![CDATA[Kiralık bisiklet sistemine üye olabilmeniz için 18 yaşını doldurmuş olmanız gerekmektedir.<br><br>
+
+Üye kartı başvurusu sırasında yanınızda kimliğinizin bulunması gerekmektedir.<br><br>
+
+Üye kart bedeli 5 TL'dir.<br><br>
+
+Üye noktasından kartınıza yükleme yapabilirsiniz. (Sistemimiz min. 2,4 TL ile çalışmaktadır.)<br><br>
+
+Üye işlemleri menüsünden kartınıza yükleme işlemi yapabilirsiniz.<br><br>
+
+Üyelik kartı çıkartabileceğiniz noktalarımız.<br><br>
+
+<b>Konak İskele çalışma saatleri</b><br><br>
+Pazartesi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00<br>
+Salı&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00<br>
+Çarşamba&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00<br>
+Perşembe&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00<br>
+Cuma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00<br>
+Cumartesi&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00<br>
+Pazar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00 - 15:00 / 15:30 - 19:00]]>"</string>
+    <string name="pricing_static_text">"<![CDATA[01.01.2016 tarihinden itibaren bisiklet kiralama ücreti her saat için 2,40 TL'dir.<br><br>
+
+Bisim üye kartı ile kiralamada herhangi bir depozito işlemi bulunmamaktadır.<br><br>
+
+Kredi kartı ile bisiklet kiralamadaki 25 TL'lik depozitoya ait provizyon saat 24:00'da çözümlenmektedir. Aksi bir durumda banka şubeniz ile görüşünüz.<br><br>
+
+Akıllı bisiklet sistemimiz  23:00 - 06:00 arası hizmete kapalıdır.]]>"</string>
+    <string name="howhire_static_text">"<![CDATA[<b>1. ÜYE KARTI İLE (Hızlı ve kolay)</b><br><br>
+
+Sürekli yeşil ışık yanan bisikletin bulunduğu park ünitesine kartınızı okutup şifrenizi giriniz ve giriş tuşuna basınız., yeşil ışık yanıp sönmeye başlayınca  bisikletinizi önce ileri itip sonra geri çekerek teslim alınız. Kullanıma ait bilgiler cep telefonunuza kısa mesaj ile gönderilir. Üye kartı ile kiralamada blokaj yoktur.<br><br>
+
+
+
+            <b>Üye kartımı nasıl alırım?</b><br><br>
+
+            1. Ana menüde ilan edilen üye noktalarından para yatırarak,<br>
+
+            2. Sitemize üye olarak kredi kartı ile internetten alabilirsiniz. Kartınız  2- 4 gün içinde adresinize gönderilecektir.<br><br>
+
+            <b>Üye kartıma nasıl kredi yüklerim?</b><br><br>
+
+            1. Üye noktalarından<br>
+
+            2. Sitemizde üye girişi yaparak kredi kartı ile internetten yükleyebilirsiniz.<br><br>
+
+
+
+<b>2. KREDİ KARTI İLE</b><br><br>
+
+ Herhangi bir üyelik gerektirmeden kiosk ekranındaki talimatları uygulayarak aldığınız şifre ile park ünitesine gidiniz. Sürekli yeşil ışık yanan bisikletin bulunduğu park ünitesinde önce giriş tuşuna basınız,  şifrenizi girdikten sonra tekrar giriş tuşuna basınız., yeşil ışık yanıp sönmeye başlayınca  bisikletinizi önce ileri itip sonra geri çekerek teslim alınız.<br><br>
+
+            <b>25 tl blokaj nedir?</b><br><br>
+
+             Bu bizim aldığımız bir depozite değildir. Bankalar işleyiş sistemi gereği kredi kartınızdan bisiklet başına 25 TL bloke edilir. Bisikleti  kiraladığınızın ertesi gün saat 23.00 de blokaj kalkar.Bu süre içinde başka bir blokaja gerek kalmadan tekrar tekrar kiralama yapabilirsiniz. Belirtilen sürede blokajın kalkmadığı hallerde kredi kartınızın ait olduğu banka ile görüşünüz.]]>"</string>
+</resources>
